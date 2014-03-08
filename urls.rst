@@ -29,3 +29,11 @@ Other
 - http://julian.togelius.com/BorgCardona2014Open.pdf
 - http://news.sky.com/story/883508/top-trumps-who-are-the-most-fancied-mps
 - http://www.huffingtonpost.co.uk/2011/09/18/political-top-trumps-2011_n_968442.html
+
+- https://github.com/pauloneves/top-trumps-cards
+- https://github.com/christianhanne/top_trumps
+- http://demo.christianhanne.de/jquery_top_trumps/
+- https://github.com/chrisbarber86/supercar
+- http://www.dmst.aueb.gr/dds/sw/top-trumps-cards/
+- https://github.com/dspinellis/top-trumps-cards
+- http://gitrec.mortardata.com/repo/dspinellis/top-trumps-cards
