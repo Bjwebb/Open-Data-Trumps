@@ -1,6 +1,7 @@
 hacks.rewiredstate.org
 ======================
 
+- http://hacks.rewiredstate.org/events/National%20Hack%20the%20Government%202014%20Glasgow/open-data-top-trump-top-trumps
 - http://hacks.rewiredstate.org/events/nhtg-11/london-borough-smackdown/
 - http://hacks.rewiredstate.org/events/nhtg12/windytrumps
 - http://hacks.rewiredstate.org/events/nhtg-13/london-trumps

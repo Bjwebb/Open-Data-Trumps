@@ -21,9 +21,9 @@
           'cards' : [
             {
                 'name': 'Open Data Top Trumps Top Trumps',
-                'url': '',
+                'url': 'http://hacks.rewiredstate.org/events/National%20Hack%20the%20Government%202014%20Glasgow/open-data-top-trump-top-trumps',
                 'image' : '',
-                'fields' : [0, 0, 0, 0]
+                'fields' : [10, 5, 7, 9]
             },
             {
                 'name': 'London Borough Smackdown',
@@ -142,7 +142,7 @@
           },
           'renderCard' : function($card, card, fields) {
             $card.find('.tt-card-fields')
-              .before('<img src="' +  card.image + '" alt="' + card.name + '" width="300" height="300">');
+              .before('<a href="' + card.url + '"><img src="' +  card.image + '" alt="' + card.name + '" width="300" height="300"></a>');
           }
         });
       });
