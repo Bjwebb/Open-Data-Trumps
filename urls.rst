@@ -23,12 +23,16 @@ Other
 - http://juliac2.wordpress.com/2011/03/27/third-national-hack-the-government-day/
 - https://github.com/okfn/ideas/issues/70
 
+
+- https://github.com/kevdunleavy/distro_battle
 - http://www.instructables.com/id/Instructables-Top-Trumps/step6/How-to-play-Hands-Style-by-Kiteman-and-Lithium-Rai/
 - http://www.openideo.com/challenge/how-might-we-give-children-the-knowledge-to-eat-better/concepting/top-trumps-style-game-using-food-nutrition-data-
+
 
 - http://julian.togelius.com/BorgCardona2014Open.pdf
 - http://news.sky.com/story/883508/top-trumps-who-are-the-most-fancied-mps
 - http://www.huffingtonpost.co.uk/2011/09/18/political-top-trumps-2011_n_968442.html
+
 
 - https://github.com/pauloneves/top-trumps-cards
 - https://github.com/christianhanne/top_trumps
@@ -37,3 +41,4 @@ Other
 - http://www.dmst.aueb.gr/dds/sw/top-trumps-cards/
 - https://github.com/dspinellis/top-trumps-cards
 - http://gitrec.mortardata.com/repo/dspinellis/top-trumps-cards
+
